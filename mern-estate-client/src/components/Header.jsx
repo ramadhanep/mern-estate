@@ -6,7 +6,7 @@ export default function Header() {
     <header className="border-b">
       <div className="flex justify-between items-center max-w-6xl mx-auto py-4">
         <Link to="/">
-          <h1 className="text-xl font-bold">Logo</h1>
+          <h1 className="text-xl font-bold">Mern Estate Client</h1>
         </Link>
         <ul className="flex gap-4">
           <Link to="/about">
