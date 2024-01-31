@@ -7,7 +7,7 @@ export default function Home() {
       <p>Welcome Ramadhan</p>
       <div className='mt-4 flex gap-2'>
         <a href="" className='underline'>Profile</a>
-        <a href="" className='underline text-red-500'>Logout</a>
+        <a href="" className='underline text-blue-500'>Logout</a>
       </div>
     </div>
   )
